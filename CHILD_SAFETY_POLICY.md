@@ -54,4 +54,4 @@
 * **聯絡電子郵件:** [support.nkcl@gmail.com](mailto:support.nkcl@gmail.com)
 
 ---
-*找找join-us 團隊致力於維護安全、友善的社群環境。*
+*NKCL 團隊致力於維護安全、友善的社群環境。*

@@ -66,6 +66,3 @@ JoinUsApp 對於您因使用或無法使用本服務、其他使用者於線上�
 ## 11. 第三方開源軟體與圖資授權聲明 (Open Source & Map Attribution)
 
 本應用程式之地圖服務採用 Leaflet 開源引擎渲染，地理資料與底圖樣式分別由 © OpenStreetMap contributors (ODbL 授權) 與 © CARTO (CC BY 4.0 授權) 提供。各開源軟體、函式庫與圖資之智慧財產權分別歸屬其各自權利人所有。
-
----
-`Terms of Service.md`
